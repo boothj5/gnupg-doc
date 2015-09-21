@@ -65,6 +65,7 @@
    - [[file:swlist.org::#gabber][Gabber]]
    - [[file:swlist.org::#gajim][Gajim]]
    - [[file:swlist.org::#miranda-icq][Miranda ICQ]]
+   - [[file:swlist.org::#profanity][Profanity]]
    - [[file:swlist.org::#psi][PSI]]
    - [[file:swlist.org::#tkabber][Tkabber]]
    - [[file:swlist.org::#wija][wija]]

@@ -397,6 +397,15 @@ Is what the name says.
 Is a secure networking suite that uses GnuPG as part of its
 authentication and encryption scheme.
 
+** [[http://www.profanity.im/][Profanity]] [Unix,Windows,OSX] CHAT
+   :PROPERTIES:
+   :CUSTOM_ID: profanity
+   :END:
+
+Profanity is a console based XMPP client, which runs on Linux, OSX 
+and Windows (using Cygwin). It is released under the GNU General 
+Public License.
+
 ** [[http://psi.affinix.com/][PSI]] [Unix, Windows] CHAT
    :PROPERTIES:
    :CUSTOM_ID: psi
